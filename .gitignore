@@ -123,6 +123,7 @@ ipch/
 
 # TFS 2012 Local Workspace
 $tf/
+deyrahul23.github.io.code-workspace
 
 # Guidance Automation Toolkit
 *.gpState
